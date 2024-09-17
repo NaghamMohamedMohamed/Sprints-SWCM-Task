@@ -1,1 +1,0 @@
-This is the first task ( Practicing git ) in the Data Analytics sub-module in Data Analytics & Data Visualization module.
